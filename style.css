@@ -60,6 +60,7 @@ body{
     height: .4vh;
     background: rgb(23 124,229);
     position: absolute;
+    border-radius: 3px;
     top: 50%;
     left: -1.9vw;
 }
